@@ -91,7 +91,7 @@ project-root/
 ## Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mohanbalu/ChatBot
    ```
 
 2. **Install Node.js Dependencies**:
@@ -113,7 +113,7 @@ project-root/
      ```bash
      python server.py
      ```
-   - Open the application in the browser via `http://localhost/<project-folder>`.
+   - Open the application in the browser via `http://localhost/ChatBot`.
 
 ## Future Enhancements
 1. **Multi-language Support**: Extending chatbot interaction to multiple languages.
